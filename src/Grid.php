@@ -147,7 +147,7 @@ class Grid
      *
      * @var string
      */
-    protected $actionsClass = \App\Http\Admin\Extensions\Actions::class;
+    protected $actionsClass = Displayers\Actions::class;
 
     /**
      * Options for grid.
