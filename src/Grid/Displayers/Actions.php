@@ -21,7 +21,7 @@ class Actions extends AbstractDisplayer
      *
      * @var array
      */
-    protected $actions = ['view', 'edit', 'delete'];
+    protected $actions = ['edit', 'delete'];
 
     /**
      * @var string
